@@ -490,10 +490,16 @@ console.log("Tabla criterios:", db.criterios);
 
 console.log("Haciendo scroll");
     
-    res.scrollIntoView({
-    behavior: 'smooth',
-    block: 'start'
+//    res.scrollIntoView({
+ //   behavior: 'smooth',
+//    block: 'start'
+//});
+
+window.scrollTo({
+    top: document.body.scrollHeight,
+    behavior: 'smooth'
 });
+    
 }
 
 // ======================================
