@@ -253,3 +253,27 @@ select {
         max-height: 420px;
     }
 }
+
+#volver-arriba {
+
+    margin-bottom: 15px;
+
+    padding: 10px 15px;
+
+    background: #2e7d32;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 6px;
+
+    cursor: pointer;
+
+    font-size: 14px;
+}
+
+#volver-arriba:hover {
+
+    opacity: 0.9;
+}
