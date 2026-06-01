@@ -350,6 +350,10 @@ document.getElementById(
 
 function mostrarDiagnostico() {
 
+console.log(
+    document.getElementById('select-sintoma')
+);
+    
     const sId =
         String(
             document.getElementById(
