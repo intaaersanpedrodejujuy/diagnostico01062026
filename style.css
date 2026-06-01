@@ -304,6 +304,12 @@ select {
 
 @media (max-width: 600px) {
 
+    ///-----------------------
+#galeria-partes {
+
+    grid-template-columns: 1fr;
+}
+    ///-----------------------
     body {
 
         padding: 10px;
