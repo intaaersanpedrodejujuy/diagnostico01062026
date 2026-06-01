@@ -1,0 +1,46 @@
+ID_Manifestacion,Descripcion,Tipo,Descripcion_Corta,Imagen
+S01,"Manchas circulares café con anillos concéntricos",Síntoma,En las hojas inferiores e internas de plantas adultas se observan manchas circulares de color café rodeadas de un borde amarillo. Bajo condiciones predisponentes estas lesiones incrementan su tamaño y avanzan afectando las zonas media y alta de la planta. Las manchas se caracterizan por tener anillos concéntricos de color oscuro y aspecto pulverulento.,images/sintomas/hoja_alternaria_solani.png
+S02,"Estrangulamiento marcado en el cuello de la planta",Síntoma,En plantines a nivel del cuello se forman lesiones de tejido muerto (necrósis) que terminan por estrangularlas.,images/sintomas/tallo_alternaria_solani.png
+S03,"Lesiones pequeñas castaño oscuro con centro claro",Síntoma,Los primeros síntomas se manifiestan en hojas jóvenes tallos tanto en plantines como en plantas adultas. Las lesiones son pequeñas de color castaño oscuro y borde desuniforme. Posteriormente estas lesiones se tornan claras en el centro y en determinadas condiciones se desprenden dejando la hoja con múltiples perforaciones.,images/sintomas/hoja_stemphylium_solani.png
+S04,"Perforaciones en el tejido foliar (manchas que se desprenden)",Síntoma
+S05,"Marchitamiento temporal o paulatino",Síntoma
+S06,"Amarillamiento de hojas basales",Síntoma
+S07,"Oscurecimiento de los vasos internos o tejido de conducción",Síntoma
+S08,"Manchas blancas circulares (a veces de aspecto polvoriento)",Síntoma,En la cara superior de las hojas basales se observan manchas circulares de color blanco de aspecto polvoriento que pueden producir las caídas de las hojas. También se observan la formación de áreas irregulares de color amarillo que eventualmente se transforman en tejido muerto (necrosis). Las manchas circulares de color blanco de aspecto pulverulento (signo) son difíciles de observar.,images/sintomas/hoja_oidium_lycopersiciy.png
+S09,"Áreas amarillas irregulares que progresan a necrosis",Síntoma
+S10,"Lesiones necróticas en pétalos o cálices",Síntoma
+S11,"Manchas oscuras pequeñas en frutos",Síntoma
+S12,"Manchas amarillas con borde difuso en cara superior de la hoja",Síntoma
+S13,"Resquebrajamientos longitudinales con aspecto de corcho en raíz",Síntoma
+S14,"Lesiones acuosas en tallo o fruto",Síntoma
+S15,"Necrosis en forma de 'V' característica en bordes foliares",Síntoma
+S16,"Manchas aceitosas en hojas",Síntoma
+S17,"Zonas color chocolate en frutos",Síntoma
+S18,"Marchitamiento repentino e irreversible (inicia en ápice)",Síntoma
+S19,"Médula del tallo marrón desintegrada o hueca",Síntoma
+S20,"Marchitamiento unilateral de hojas (un solo lado de la planta)",Síntoma
+S21,"Necrosis en bordes de hojas y a lo largo del tallo",Síntoma
+S22,"Síntoma de 'ojo de pájaro' en fruto",Síntoma
+S23,"Formación de cancros (llagas) en el tallo",Síntoma
+S24,"Manchas de fruto con centro resquebrajado",Síntoma
+S25,"Oscurecimiento externo del tallo (podredumbre de tejidos)",Síntoma
+S26,"Fruto con aspecto de bolsa de agua (descomposición interna)",Síntoma
+S27,"Achaparramiento y enanismo generalizado",Síntoma
+S28,"Moteado clorótico y acartuchamiento de hojas",Síntoma
+S29,"Hojas estrechas reducidas a la nervadura central",Síntoma
+S30,"Bronceado de hojas con presencia de anillos concéntricos",Síntoma
+S31,"Frutos deformados con lesiones circulares concéntricas",Síntoma
+S32,"Zonas verdes persistentes en fruto y pulpa madura",Síntoma
+S33,"Guías amarillas de maleza parásita envolviendo la planta",Síntoma
+S34,"Oscurecimiento de bordes foliares y brotes (daño por frío)",Síntoma
+S35,"Amarillamiento marcado en la base de hojas jóvenes (ápice)",Síntoma
+S36,"Hojas deformadas en forma de punta de lanza o hilos",Síntoma
+SG01,"Aspecto pulverulento (polvillo blanco o cenizo sobre las lesiones)",Signo
+SG02,"Micelio blanco de aspecto algodonoso sobre tejidos acuosos",Signo
+SG03,"Esclerocios negros de tamaño irregular (dentro o fuera del tallo)",Signo
+SG04,"Rizomorfas blancas (micelio con aspecto de raíz que crece radialmente)",Signo
+SG05,"Esclerocios castaños esféricos (similares a semillas de colza)",Signo
+SG06,"Zooglea (suspensión blanquecina que emana del tallo al sumergirlo en agua)",Signo
+SG07,"Terciopelo de color marrón localizado en el envés de las hojas",Signo
+SG08,"Masa gelatinosa de color rosado sobre lesiones de frutos maduros",Signo
+SG09,"Guías de la maleza parásita envolviendo activamente la planta",Signo
