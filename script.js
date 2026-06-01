@@ -488,6 +488,8 @@ console.log("Tabla criterios:", db.criterios);
         'hidden'
     );
 
+console.log("Haciendo scroll");
+    
     res.scrollIntoView({
     behavior: 'smooth',
     block: 'start'
