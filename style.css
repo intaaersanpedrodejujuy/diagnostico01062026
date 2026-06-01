@@ -231,6 +231,72 @@ select {
 
     color: #27ae60;
 }
+///-----------------------------
+/* ========================= */
+/* GALERIA DE PARTES */
+/* ========================= */
+
+#galeria-partes {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(auto-fit, minmax(260px, 1fr));
+
+    gap: 20px;
+
+    margin-top: 15px;
+}
+
+.tarjeta-parte {
+
+    background: white;
+
+    border: 2px solid #ddd;
+
+    border-radius: 10px;
+
+    overflow: hidden;
+
+    cursor: pointer;
+
+    transition: all .2s ease;
+
+    box-shadow:
+        0 2px 5px rgba(0,0,0,0.1);
+
+    text-decoration: none;
+
+    color: inherit;
+}
+
+.tarjeta-parte:hover {
+
+    transform: translateY(-3px);
+
+    border-color: #27ae60;
+}
+
+.tarjeta-parte img {
+
+    width: 100%;
+
+    aspect-ratio: 2 / 3;
+
+    object-fit: cover;
+
+    display: block;
+}
+
+.tarjeta-parte h3 {
+
+    margin: 12px;
+
+    text-align: center;
+
+    color: #2c3e50;
+}
+///-----------------------------
 
 /* ========================= */
 /* RESPONSIVE */
