@@ -507,3 +507,28 @@ console.log("Haciendo scroll");
 // ======================================
 
 init();
+
+// ======================================
+// VOLVER A SINTOMAS
+// ======================================
+
+document.addEventListener(
+    'click',
+    e => {
+
+        if (
+            e.target &&
+            e.target.id === 'volver-arriba'
+        ) {
+
+            document.getElementById(
+                'sec-sintomas'
+            ).scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+            });
+
+        }
+
+    }
+);
