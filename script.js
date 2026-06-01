@@ -487,6 +487,11 @@ console.log("Tabla criterios:", db.criterios);
     res.classList.remove(
         'hidden'
     );
+
+    res.scrollIntoView({
+    behavior: 'smooth',
+    block: 'start'
+});
 }
 
 // ======================================
