@@ -357,6 +357,12 @@ function mostrarDiagnostico() {
             ).value
         ).trim();
 
+
+console.log("Manifestación seleccionada:", sId);
+console.log("Tabla criterios:", db.criterios);
+
+
+
     const res =
         document.getElementById(
             'resultado'
