@@ -276,6 +276,8 @@ unicos.forEach(sId => {
     tarjeta.className =
         'tarjeta-sintoma';
 
+console.log(sData);
+    
 tarjeta.innerHTML = `
     <img src="${sData[4]}" alt="${sData[1]}">
 
