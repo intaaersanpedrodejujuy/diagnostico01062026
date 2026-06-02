@@ -352,14 +352,17 @@ select {
 
 /// Ver si se elimina
 a{
-    text-decoration:none;
-    color:inherit;
-    outline:none;
-    -webkit-tap-highlight-color:transparent;
+    outline: none;
 }
 
-.tarjeta-parte:hover{
-    transform: translateY(-3px);
-    box-shadow: 0 6px 14px rgba(0,0,0,0.15);
-    transition: .2s;
+a:focus,
+a:active,
+a:visited{
+    outline: none;
+    background: transparent;
+}
+.tarjeta-parte{
+    border: none;
+    outline: none;
+    background: white;
 }
