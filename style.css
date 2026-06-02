@@ -349,3 +349,17 @@ select {
 
     opacity: 0.9;
 }
+
+/// Ver si se elimina
+a{
+    text-decoration:none;
+    color:inherit;
+    outline:none;
+    -webkit-tap-highlight-color:transparent;
+}
+
+.tarjeta-parte:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+    transition: .2s;
+}
