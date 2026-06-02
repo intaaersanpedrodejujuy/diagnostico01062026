@@ -349,20 +349,3 @@ select {
 
     opacity: 0.9;
 }
-
-/// Ver si se elimina
-a{
-    outline: none;
-}
-
-a:focus,
-a:active,
-a:visited{
-    outline: none;
-    background: transparent;
-}
-.tarjeta-parte{
-    border: none;
-    outline: none;
-    background: white;
-}
